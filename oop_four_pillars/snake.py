@@ -1,5 +1,5 @@
 from reptile import Reptile
-# Encapsulation, hide inner workings from the user, while allowing methods to be used. Unlike abstraction, in encapsulation the inner workings are in a completely different file, so you cnt even see the logic if you want to.
+# Encapsulation, hide inner workings from the user, while allowing methods to be used. Unlike abstraction, in encapsulation the inner workings are in a completely different file, so you cant even see the logic if you want to.
 # Can only do encapsulation via inheritance
 class Snake(Reptile):
 
